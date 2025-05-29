@@ -26,7 +26,7 @@ By using a containerized setup, you get a fully functional Oracle 19c database o
 
 - **Mac** or **macOS** device with Apple Silicon (M1/M2/M3/M4)
 - **[Docker Desktop](https://www.docker.com/products/docker-desktop/)** or **[OrbStack](https://orbstack.dev/)** installed and running
-- An active **Oracle account** to download the installer
+- An active **[Oracle account](https://profile.oracle.com/)** to download the Oracle 19c installation ZIP file
 
 ---
 
@@ -38,7 +38,7 @@ Visit the [Oracle Database Software Downloads](https://www.oracle.com/database/t
 
 - **File:** `LINUX.ARM64_1919000_db_home.zip`
 
-> Ensure you have an Oracle account to access the download.
+> You’ll need an Oracle account to access the download — you can [create one for free here](https://profile.oracle.com/).
 
 ### 2. Clone Oracle Docker Images Repository
 
