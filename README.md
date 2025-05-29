@@ -103,7 +103,7 @@ ALTER USER {USERNAME} IDENTIFIED BY {PASSWORD};
 > Replace `{USERNAME}` and `{PASSWORD}` with your preferred username and password.
 
 > If you’d like to install Oracle’s official HR sample schema (for learning or testing), use the companion repository:
-![oracle-hr-sample-schema](https://github.com/adibbiniqbal/oracle-hr-sample-schema)
+[oracle-hr-sample-schema](https://github.com/adibbiniqbal/oracle-hr-sample-schema)
 This includes all SQL scripts needed to create the HR user, tables, sample data, and indexes.
 
 ---
