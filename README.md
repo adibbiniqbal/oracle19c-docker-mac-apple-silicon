@@ -83,7 +83,7 @@ docker run --name oracle19c \
 
 ### 7. Create a New Oracle User and Schema
 
-Using [Oracle SQL Developer](https://www.oracle.com/database/sqldeveloper/) or any Oracle client (I would suggest [VS Code](https://code.visualstudio.com/) with the [Oracle SQL Developer Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer)), connect to the database and execute the following SQL commands to create a new **user** (which also creates a schema with the same name):
+Using [Oracle SQL Developer](https://www.oracle.com/database/sqldeveloper/) or any Oracle client (I would suggest [VS Code](https://code.visualstudio.com/) with the [Oracle SQL Developer Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer)), connect to the database (Login with Username: SYS AS SYSDBA and Password: OracleHomeUser1) and execute the following SQL commands to create a new **user** (which also creates a schema with the same name):
 
 > In Oracle, a **user** is the account you log in with, and a **schema** is the collection of database objects (like tables and views) owned by that user.
 
@@ -118,8 +118,8 @@ DB_HOST=localhost
 DB_PORT=1521
 DB_DATABASE=orclpdb1
 DB_SERVICE_NAME=orclpdb1
-DB_USERNAME=localuser
-DB_PASSWORD=OracleHomeUser1
+DB_USERNAME={USERNAME}
+DB_PASSWORD={PASSWORD}
 ```
 
 ---
