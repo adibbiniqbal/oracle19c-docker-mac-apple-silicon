@@ -25,7 +25,7 @@ By using a containerized setup, you get a fully functional Oracle 19c database o
 ## ✅ Prerequisites
 
 - **Mac** or **macOS** device with Apple Silicon (M1/M2/M3/M4)
-- **Docker Desktop** installed and running
+- **[Docker Desktop](https://www.docker.com/products/docker-desktop/)** or **[OrbStack](https://orbstack.dev/)** installed and running
 - An active **Oracle account** to download the installer
 
 ---
