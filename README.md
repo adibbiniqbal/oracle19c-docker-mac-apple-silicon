@@ -1,6 +1,6 @@
 # 🐘 Oracle 19c on Mac with Docker (Apple Silicon Compatible)
 
-This repository provides a clean and fast way to run **Oracle Database 19c** on your **Mac** using **Docker**, with full support for **Apple Silicon** (M1, M2, M3). Perfect for developers who want Oracle locally without the complexity of a native install.
+This repository provides a clean and fast way to run **Oracle Database 19c** on your **Mac** using **Docker**, with full support for **Apple Silicon** (M1, M2, M3, M4). Perfect for developers who want Oracle locally without the complexity of a native install.
 
 By using a containerized setup, you get a fully functional Oracle 19c database on your macOS machine — optimized for performance and compatibility with Apple’s ARM architecture.
 
