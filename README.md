@@ -137,3 +137,15 @@ DB_PASSWORD={PASSWORD}
 - [Oracle Docker Images GitHub](https://github.com/oracle/docker-images)
 - [Oracle 19c Software Download](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html)
 - [Running Oracle on M1 Macs with Docker](https://levelup.gitconnected.com/running-oracle-19c-on-docker-for-mac-with-apple-chip-262ba83ff26d)
+
+---
+
+## 📃 License
+
+MIT License — feel free to use, modify, and contribute.
+
+---
+
+## 🙋 Support
+
+If you have questions, open an issue or submit a pull request!
